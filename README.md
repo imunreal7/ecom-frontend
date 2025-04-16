@@ -6,11 +6,11 @@ This is the frontend application for the MyStore project, built with React, Type
 
 ## Categories
 
-![Categories](/frontend/public/screenshots/categories.png)
+![Categories](/public/screenshots/categories.png)
 
 ## Products
 
-![products](/frontend/public/screenshots/products.png)
+![products](/public/screenshots/products.png)
 
 ## 📋 Prerequisites
 
